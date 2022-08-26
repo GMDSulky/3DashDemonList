@@ -93,7 +93,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks
+                        Achieved the record without using hacks. The game is locked on a 60fps refresh rate and we will keep all records on 60fps until further notice.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
