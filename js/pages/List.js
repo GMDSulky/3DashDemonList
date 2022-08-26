@@ -85,7 +85,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Original repository from TSL. In no way is this site affiliated with TSL. <a href="https://tsl.pages.dev/#/" target="_blank"> LINK TO TSL (TSL)</a></p>
+                        <p class="type-label-md">Original repository from TSL. In no way is this site affiliated with TSL. <a href="https://tsl.pages.dev/#/" target="_blank"> LINK TO TSL</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
