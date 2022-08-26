@@ -5,6 +5,5 @@ This repo is a fork of the TSL repository. In no way is this list associated wit
 
 ## Repo Maintainers:
 
-- Electro
+- Sulky
 - Prometheus
-- Emonadeo
