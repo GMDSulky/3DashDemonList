@@ -85,7 +85,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
+                        <p class="type-label-md">Original repository from TSL. In no way is this site affiliated with TSL. <a href="https://tsl.pages.dev/#/" target="_blank"> LINK TO TSL (TSL)</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
@@ -99,7 +99,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record

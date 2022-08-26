@@ -1,0 +1,18 @@
+{
+    "id": 99999999,
+    "name": "template",
+    "author": "creator",
+    "creators": [],
+    "verifier": "the man",
+    "verification": "https://www.youtube.com/watch?v=WY9w2J4eLcE",
+    "percentToQualify": 100,
+    "password": "...",
+    "records": [
+        {
+            "user": "recorduser",
+            "link": "https://www.youtube.com/watch?v=WY9w2J4eLcE",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
